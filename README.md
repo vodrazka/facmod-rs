@@ -24,6 +24,4 @@ You can find your token at https://factorio.com/profile. Just click **reveal** t
 
 ### mod_dir
 This is the path to the mods directory. Using the absolute path is best, but relative paths do work.
-
-### mod_list
-This should be using the **url version** of the mod name. For example, if downloading https://mods.factorio.com/mod/space-exploration, then the name would be `space-exploration`.
+It is expected to have mod-list.json in that path.
